@@ -13,8 +13,8 @@ The purpose of this analysis is to assess the data that was produced from the sc
 ### Results
 
 The following are data on the temperature and levels of precipitation in Oahu for the months of June and December.
-![](june_temp.png)
-![](dec_temp.png)
+![](images/june_temp.png)
+![](images/dec_temp.png)
 
 ### Summary
 
