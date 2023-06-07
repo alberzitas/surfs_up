@@ -1,21 +1,31 @@
 # Surfs Up
 
+## Tools Used
+
+• Python
+
+• Pandas
+
+• SQLAlchemy
+
 ## Overview and Purpose
 
-The purpose of this project is to collect data on temperatures and precipitation data in Hawaii for the months of June and December to present to the investor W. Avy. To do this, we used python, pandas, and SQLAlchemy to retrieve the temperatures, create a DataFrame using the information, and generate the data into a list.
+The objective of this project is to gather temperature and precipitation data in Hawaii for the months of June and December and present it to the investor, W. Avy. To accomplish this, we employed Python, Pandas, and SQLAlchemy. These tools enabled us to retrieve the necessary temperature data, create a structured DataFrame with the collected information, and organize the data into a list format.
 
-## Analysis
+Using Python, we implemented SQLAlchemy to interact with the data source and extract the relevant temperature and precipitation data for the specified months in Hawaii. Subsequently, we leveraged the power of Pandas, a data manipulation library, to transform the retrieved data into a structured and analyzable DataFrame. This DataFrame serves as a comprehensive representation of the temperature and precipitation data, facilitating efficient analysis and presentation to the investor.
 
-### Purpose
+By employing Python, Pandas, and SQLAlchemy, we effectively retrieved, organized, and prepared the temperature and precipitation data from Hawaii for the months of June and December. This data will provide W. Avy with valuable insights into the weather patterns during these months, aiding in informed decision-making and potential investment considerations.
 
-The purpose of this analysis is to assess the data that was produced from the script and to come up with a conclusion about the temperture and precipitation during the months in question.
-
-### Results
+## Results
 
 The following are data on the temperature and levels of precipitation in Oahu for the months of June and December.
 ![](images/june_temp.png)
 ![](images/dec_temp.png)
 
-### Summary
+## Summary
 
-Based on the results of the query, it appears that the temperature is pretty consistent at around 75-80º in June and an average of 71º in December. The precipitation in December ranges between 0-2.4 inches a day. Based on this data, W. Avy can be pretty certain that the temperature should be ideal for a surf shop during the summer.
+The analysis of the query results indicates a consistent temperature range of approximately 75-80º Fahrenheit in June and an average temperature of 71º Fahrenheit in December. Furthermore, the precipitation levels in December vary between 0-2.4 inches per day.
+
+Based on this data, W. Avy can confidently infer that the temperature conditions during the summer months are highly favorable for a surf shop. The consistent temperatures in the 75-80º Fahrenheit range provide an ideal climate for beach-related activities, including surfing. Additionally, the relatively low precipitation levels in December further support the suitability of the location for a surf shop, as inclement weather conditions are less likely to impede outdoor activities.
+
+With this information, W. Avy can make informed decisions regarding potential investments in a surf shop, leveraging the data to anticipate favorable conditions for attracting customers and ensuring a thriving business during the summer season.
